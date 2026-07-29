@@ -14,7 +14,7 @@ BREAKING CHANGE: All class prefixes changed from JLH to YYS.
 
   # 使用 Nexus HTTP 仓库
   s.source           = {
-    :http => 'http://nexus.yonyow.com/repository/yonyowsdk-raw/YonyowSDK/10.1.46/YonyowSDK.xcframework.zip',
+    :http => 'http://nexus.yonyow.com/repository/yonyowsdk-raw/YonyowSDK/10.1.47/YonyowSDK.xcframework.zip',
     :type => :zip,
     :sha256     => 'b7e6be9409434f76a347f5bc8b44efc3b39a6ac68a1d4733ba10eba654043f04'
   }
