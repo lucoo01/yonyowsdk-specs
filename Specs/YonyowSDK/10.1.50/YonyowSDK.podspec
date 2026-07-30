@@ -16,7 +16,7 @@ BREAKING CHANGE: All class prefixes changed from JLH to YYS.
   s.source           = {
     :http => 'http://nexus.yonyow.com/repository/yonyowsdk-raw/YonyowSDK/10.1.50/YonyowSDK.xcframework.zip',
     :type => :zip,
-    :sha256     => '486632e9e406975dac1c660c907d6512cff13a92a31421d70ba2a1318eb03de2'
+    :sha256     => 'aad75bba42c21d7837ac6f81f727e583539f906451d24aaf250f22ca567939e9'
   }
 
   # 指定 xcframework 在解压后的位置（相对于 zip 根目录）
